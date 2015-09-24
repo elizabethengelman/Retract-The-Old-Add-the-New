@@ -1,4 +1,4 @@
-# Out with the Old, In With the New -> Retract the Old, Add the New
+# "Out with the Old, In With the New" vs. Retract the Old, Add the New
 
 For many of us, the idea of a "database" instantly brings to mind a data store that utilizes a relational model. We think of tables which have relationships to one another using primary keys, and data that can be queried using SQL. I believe though, that in order to fully understand our data, it's important to realize that there are different ways to store, query and relate to data. There was a world before the relational model, and based on some recent developments in the past decade or so, there is a future in it as well. This blog post should not be read as a slight to the relational database model, because for a lot of data that model really works. However, after my recent experience with learning and using Datomic on a fairly large client project, I've seen first hand that there are different ways to look at our data, and it's important to explore them. 
 
