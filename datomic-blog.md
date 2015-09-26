@@ -123,5 +123,5 @@ It is worth mentioning that Datomic is still a relatively new technology, which 
 Sometimes it *can* feel like you’re the first one to ever try to query data in a particular way—which can be daunting. But honestly, the opportunity to think about data in a new and different way makes it worth it. Understanding data in a linear/time-sensitive way instead of relationally, is eye-opening. It’s helped me to understand my data more thoroughly, and also realize new creative ways that data can be linked and understood. We’re not always restricted by the database structure that we currently have—and this allows us to add even more relationships between our data.
 
 ####Resources
--Datomic documentation
--Rich Hickey’s [Intro to Datomic video](https://youtu.be/RKcqYZZ9RDY)
+- Datomic documentation
+- Rich Hickey’s [Intro to Datomic video](https://youtu.be/RKcqYZZ9RDY)
